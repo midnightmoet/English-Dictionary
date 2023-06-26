@@ -4,4 +4,4 @@ This is a simple English dictionary that I made using JavaScript. It is a comman
 
 ## API
 
-I used the [Oxford Dictionary API](https://developer.oxforddictionaries.com/) to get the definitions of the words.
+I used the [Free Dictionary API](https://dictionaryapi.dev/) to get the definitions of the words.
